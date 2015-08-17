@@ -2,9 +2,9 @@
   text-decoration: none;
   color: #fff;
   background-size: 200%;
-  padding-left: 3px;
-  padding-right: 3px;
-  margin-left: -3px;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+  margin-left: -0.1em;
 }
 .project-link:hover {
   text-decoration: none;
